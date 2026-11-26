@@ -1,1 +1,2 @@
 privet zavod 140
+Строка из feature-a
