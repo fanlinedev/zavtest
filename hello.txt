@@ -4,5 +4,3 @@ privet zavod 140
 Строка из feature-b
 test
 test
-
-testttttttttttttt
